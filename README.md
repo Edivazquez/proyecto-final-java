@@ -29,6 +29,9 @@ Descripcion de la instalacion
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android creado y distribuido por Google.
 Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software.
 En este caso, apps para la plataforma de Android.
+
+![Instalar-Android-Studio-en-Windows-10-001](https://github.com/user-attachments/assets/2d22c568-2069-4265-af24-fc3db4b127a1)
+
 ![android](https://github.com/user-attachments/assets/ea7856e3-19e9-425c-978a-da09f3d0e726)
 
 5. # Control de Verciones
@@ -47,7 +50,9 @@ En este caso, apps para la plataforma de Android.
  * Agosto 2017 oreo, bienestar digital.
  * Agosto 2019 Android 10; modo oscuro
  * Agosto 2022, Android 13 se personaliza cada aplicación
-![image](https://github.com/user-attachments/assets/126c91f7-531c-4980-945d-488c60266cb1)
+
+   <img width="893" alt="linea de tiempo" src="https://github.com/user-attachments/assets/58960c11-04a5-4563-b465-6c791a669c0a">
+
 
 
 
