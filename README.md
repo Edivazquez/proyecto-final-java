@@ -29,7 +29,7 @@ Descripcion de la instalacion
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android creado y distribuido por Google.
 Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software.
 En este caso, apps para la plataforma de Android.
-![img](IMAGENES/android)
+![img](./IMAGENES/android)
 
 
 
