@@ -34,18 +34,18 @@ En este caso, apps para la plataforma de Android.
    
  * Septiembre 2008, PRIMERA VERSIÓN ESTABLE, servicio de marcar, enviar mensajes.
  * Abril 2009, se lanzó la versión 1.5, a partir de esta fecha se agregaron más características, los widgets nos traen información en tiempo real o de forma directa, (giroscopio tecnología que sirve para darle forma a las cosas, funciona con los 4 ejes, sensor electrónico que nos permite) 
-Septiembre 2009, la versión 1.6, búsqueda rápida, Android market renovado, adaptado a más formqatos de pantalla, sintetizador de voz, mejoras en cámara y galería, soporte para CDMA y VPN(puerto de enlace para conexiones seguras).
-Octubre 2009, versión 2.0, rutas en maps, soporte para varias cuentas, live wallpapers, soporte para flash y zoom, mejoras en la apps preinstaladas como maps, navegador o calendario. 
-Octubre 2009 sistema operativo FROYO, 
-Diciembre 2010. Gingerbread versión 2.3/2.3.7 API para juegos, NFC, primer easter egg, cambios de diseño en los iconos, soporte para resolución WXGA y superiores, Seleccionar antes de copiar, soporte para varias cámaras, soporte para giroscopio y barómetro, videollamadas en Hangouts.
-Febrero 2011. HoneyComb, adaptado para tablets, system Bar, ajustes rápidos, pestañas en el navegador, aceleración por hadware, soporte para USB OTG.
-Octubre 2011, Ice Cream Sandwich, Interfaz Holo, barra de navegación, carpetas, tipografía Roboto, Capturas de pantalla, desbloqueo facial, descartar notificaciones una a una.
-Julio 2012, JellyBean, Google Now, Movimientos más suave, Ajuste rápidos, mejores de accesibilidad, Widgets
-Noviembre 2014, Android 5.0 Lollipop. Material Design,
-Agosto 2016, mejoras en el Doze, compilador JIT, VR daydream, 
-Agosto 2017 oreo, bienestar digital.
-Agosto 2019 Android 10; modo oscuro
-Agosto 2022, Android 13 se personaliza cada aplicación
+ * Septiembre 2009, la versión 1.6, búsqueda rápida, Android market renovado, adaptado a más formqatos de pantalla, sintetizador de voz, mejoras en cámara y galería, soporte para CDMA y VPN(puerto de enlace para conexiones seguras).
+ * Octubre 2009, versión 2.0, rutas en maps, soporte para varias cuentas, live wallpapers, soporte para flash y zoom, mejoras en la apps preinstaladas como maps, navegador o calendario. 
+ * Octubre 2009 sistema operativo FROYO, 
+ * Diciembre 2010. Gingerbread versión 2.3/2.3.7 API para juegos, NFC, primer easter egg, cambios de diseño en los iconos, soporte para resolución WXGA y superiores, Seleccionar antes de copiar, soporte para  * varias cámaras, soporte para giroscopio y barómetro, videollamadas en Hangouts.
+ * Febrero 2011. HoneyComb, adaptado para tablets, system Bar, ajustes rápidos, pestañas en el navegador, aceleración por hadware, soporte para USB OTG.
+ * Octubre 2011, Ice Cream Sandwich, Interfaz Holo, barra de navegación, carpetas, tipografía Roboto, Capturas de pantalla, desbloqueo facial, descartar notificaciones una a una.
+ * Julio 2012, JellyBean, Google Now, Movimientos más suave, Ajuste rápidos, mejores de accesibilidad, Widgets
+ * Noviembre 2014, Android 5.0 Lollipop. Material Design,
+ * Agosto 2016, mejoras en el Doze, compilador JIT, VR daydream, 
+ * Agosto 2017 oreo, bienestar digital.
+ * Agosto 2019 Android 10; modo oscuro
+ * Agosto 2022, Android 13 se personaliza cada aplicación
 ![image](https://github.com/user-attachments/assets/126c91f7-531c-4980-945d-488c60266cb1)
 
 
