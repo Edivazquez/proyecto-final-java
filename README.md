@@ -1,5 +1,5 @@
 # Proyecto final primera semana
-## Autor Edgar Vazquez Ramirez 
+## Autor Edgar Vazquez Ramirez.
 
 🎯 Objetivo
 * instala y aprender el buen funcionamiento de Android Studio
