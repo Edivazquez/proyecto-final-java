@@ -1,13 +1,13 @@
 # Proyecto final primera semana
-## Autor Edgar Vazquez Ramirez.
+# Autor Edgar Vazquez Ramirez.
 
-🎯 Objetivo
+# 🎯 Objetivo
 * instala y aprender el buen funcionamiento de Android Studio
 * Entender que es Github
 * Aplicar lo aprendido
 
 # Sesiones 
-1. Sesion 1: Fundamentos Android
+- Sesion 1: Fundamentos Android
 
   Fundamentos de las aplicaciones
 Las aplicaciones Android están escritas en el lenguaje de programación Java. El SDK de android compila todo el código con todos los datos y archivos de recursos en un paquete Android, un archivo de extensión .apk. Todo el código dentro de un archivo .apk se considera una aplicación y es lo que usan los dispositívos para instalar dicha aplicación
@@ -25,9 +25,7 @@ Sin embargo, existen formas de que una aplicación comparta datos con otra y que
 Es posible que dos aplicaciones compartan el mismo ID de usuario Linux, en tal caso podrán acceder a los archivos de la otra aplicación. Para conservar los recursos del sistema, las aplicaciones con el mismo ID pueden ejecutarse en el mismo proceso y compartir la misma MV (También deben estar firmadas con el mismo certificado).
 Una aplicación puede solicitar permisos para acceder a datos del dispositivo como los contactos, SMS, la tarjeta SD, cámara, bluetooth y más. Los permisos de la aplicación se conceden en el instalación de la misma, y los otorga el usuario.
 
-
-
-3. Sesion 2: # Pilares del Pensamiento Lógico Computacional
+- Sesion 2: # Pilares del Pensamiento Lógico Computacional
 El pensamiento lógico es una habilidad mental que permite analizar y resolver problemas de manera sistemática y lógica.
 El pensamiento lógico tiene cuatro puntos importantes los cuales son:
 
@@ -40,7 +38,7 @@ El pensamiento lógico tiene cuatro puntos importantes los cuales son:
 4. Algoritmos:
  - conjunto de pasos para resolver un problema
 
-3. Sesion 3: Instalacion y Entorno de desarrollo.
+- Sesion 3: Instalacion y Entorno de desarrollo.
 Descripcion de la instalacion
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android creado y distribuido por Google.
 Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software.
@@ -50,7 +48,7 @@ En este caso, apps para la plataforma de Android.
 
 ![android](https://github.com/user-attachments/assets/ea7856e3-19e9-425c-978a-da09f3d0e726)
 
-5. # Control de Versiones
+- Sesion 4: # Control de Versiones
    
  * Septiembre 2008, PRIMERA VERSIÓN ESTABLE, servicio de marcar, enviar mensajes.
  * Abril 2009, se lanzó la versión 1.5, a partir de esta fecha se agregaron más características, los widgets nos traen información en tiempo real o de forma directa, (giroscopio tecnología que sirve para darle forma a las cosas, funciona con los 4 ejes, sensor electrónico que nos permite) 
@@ -69,25 +67,21 @@ En este caso, apps para la plataforma de Android.
 
    <img width="893" alt="linea de tiempo" src="https://github.com/user-attachments/assets/58960c11-04a5-4563-b465-6c791a669c0a">
 
-7. GitHub y Archivo Readme
+- Sesion 5: GitHub y Archivo Readme
+   
 Git es un sistema de control de versiones distribuido que se ha convertido en el estándar para el desarrollo de software.
 
-A diferencia de sistemas anteriores en Git cada copia de trabajo del código es también un repositorio completo. Esto permite trabajar sin conexión o de forma remota con facilidad.
-Git está optimizado para confirmar cambios, crear ramas, fusionar y comparar versiones anteriores.Con Git puedes trabajar de manera colaborativa.
-No se basa en los nombres de archivos, sino en el contenido real de los archivos.Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
-
-En la esquina superior derecha de cualquier página, selecciona  y luego haz clic en Nuevo repositorio.
-
-Captura de pantalla del menú desplegable GitHub que muestra las opciones para crear nuevos elementos. El elemento de menú "New repository" está resaltado en naranja oscuro.
-Debajo de "Nombre de repositorio", teclea un nombre de repositorio que empate con tu nombre de usuario de GitHub. Por ejemplo, si tu nombre de usuario es "octocat", el nombre de repositorio debe ser "octocat".
-
-Opcionalmente, en el campo de "Descripción", escriba una descripción del repositorio. Por ejemplo, "Mi repositorio personal".
-
-Seleccione Público.
-
-Seleccione Initialize this repository with a README (Inicializar este repositorio con un archivo Léame).
+GitHub es una plataforma donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código
+Con Github puedes almacenar tu código pero también tienes las siguientes ventajas.
+Presentar o compartir el trabajo.
+Seguir y administrar los cambios en el código a lo largo del tiempo.
+Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarlo.
+Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
+El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
 
 Haga clic en Create repository (Crear repositorio).
+
+![image](https://github.com/user-attachments/assets/4d7e8bb9-9574-4b0f-b26b-cabc6a32bff3)
 
 
 Encima de la barra lateral derecha, haga clic en Edit README.
@@ -103,8 +97,129 @@ El archivo LÉAME se elimina o se vacía.
 El repositorio se convierte en privado.
 El nombre del repositorio ya no coincide con el nombre de usuario debido a un cambio en uno o ambos nombres.
 
+- Sesion 6: Codificacion
+Realizamos algunos ejercicios  en Android Studio
+
+ejercicio uno
+```sql
+fun main() {
+    val diaSemana = 5
+
+    when (diaSemana) {
+
+    1 -> println("lunes")
+    2 -> println("Martes")
+    3 -> println("Miercoles")
+    4 -> println("Jueves")
+    5 -> println("Viernes")
+    else -> println("fin de Semana")
+
+}
+}
+Ejercicio dos
+
+fun main (){
+
+val javon= 50.50
+val huevo = 10.00
+val salchichas = 30.55
+val queso =1.00
+val total = (3*javon) + (10*huevo) + (20*salchichas) + (25*queso)
+
+    println("el total es $total")
+
+}
+
+ejercicio tres
+
+fun main()
+    (parametro: Array<String>) {
+     print("Ingrese el sueldo del empleado:")
+      val sueldo = readln().toDouble()
+      if (sueldo > 3000) {
+          println("Debe pagar impuestos")
+      }
+}
+```
+
+- Sesion 7: Manejo de Errores
+Resolvimos algunos errores de Android Studio que se nos presentó al momento de codificación
+![Imagen de WhatsApp 2024-07-10 a las 20 40 43_3f14d1f2](https://github.com/user-attachments/assets/c070e507-3550-4755-8945-460520518c7b)
+
+- Sesion 8: Activity
+
+```sql
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mario1"
+    tools:context=".MainActivity2">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="145dp"
+        android:layout_height="67dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="193dp"
+        tools:layout_editor_absoluteY="519dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="104dp"
+        android:layout_height="99dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="85dp"
+        android:layout_height="74dp"
+        app:srcCompat="?android:attr/fingerprintAuthDrawable"
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="519dp" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:layout_width="249dp"
+        android:layout_height="49dp"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="419dp">
+
+        <com.google.android.material.chip.ChipGroup
+            android:layout_width="249dp"
+            android:layout_height="49dp"
+            tools:layout_editor_absoluteX="68dp"
+            tools:layout_editor_absoluteY="316dp">
+
+        </com.google.android.material.chip.ChipGroup>
+    </com.google.android.material.chip.ChipGroup>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        tools:layout_editor_absoluteX="244dp"
+        tools:layout_editor_absoluteY="468dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="166dp"
+        android:layout_height="54dp"
+        android:text="BIENVENIDO EDI"
+        android:textColor="#C17171"
+        android:textColorHighlight="#E0D9D9"
+        android:textColorHint="#BF1818"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="74dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
+
+![image](https://github.com/user-attachments/assets/78b096eb-7f8f-4627-914c-efdd30cbebea)
 
 
-8. Codificacion
-9. Manejo de Errores
-10. Activity
