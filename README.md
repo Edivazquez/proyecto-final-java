@@ -70,6 +70,41 @@ En este caso, apps para la plataforma de Android.
    <img width="893" alt="linea de tiempo" src="https://github.com/user-attachments/assets/58960c11-04a5-4563-b465-6c791a669c0a">
 
 7. GitHub y Archivo Readme
+Git es un sistema de control de versiones distribuido que se ha convertido en el estándar para el desarrollo de software.
+
+A diferencia de sistemas anteriores en Git cada copia de trabajo del código es también un repositorio completo. Esto permite trabajar sin conexión o de forma remota con facilidad.
+Git está optimizado para confirmar cambios, crear ramas, fusionar y comparar versiones anteriores.Con Git puedes trabajar de manera colaborativa.
+No se basa en los nombres de archivos, sino en el contenido real de los archivos.Tendrás un listado de los cambios(commits) y podemos volver a cualquiera de esos cambios o commits.
+
+En la esquina superior derecha de cualquier página, selecciona  y luego haz clic en Nuevo repositorio.
+
+Captura de pantalla del menú desplegable GitHub que muestra las opciones para crear nuevos elementos. El elemento de menú "New repository" está resaltado en naranja oscuro.
+Debajo de "Nombre de repositorio", teclea un nombre de repositorio que empate con tu nombre de usuario de GitHub. Por ejemplo, si tu nombre de usuario es "octocat", el nombre de repositorio debe ser "octocat".
+
+Opcionalmente, en el campo de "Descripción", escriba una descripción del repositorio. Por ejemplo, "Mi repositorio personal".
+
+Seleccione Público.
+
+Seleccione Initialize this repository with a README (Inicializar este repositorio con un archivo Léame).
+
+Haga clic en Create repository (Crear repositorio).
+
+
+Encima de la barra lateral derecha, haga clic en Edit README.
+
+El archivo de README que se ha generado está pre-llenado con una plantilla para que te inspires en completarlo.
+
+Para obtener un resumen de todos los emojis disponibles y sus códigos, consulte "Hoja de referencia rápida de emoji".
+
+## Eliminar un README de perfil
+El LÉAME de perfil se eliminará de su perfil GitHub si sucede cualquiera de los siguientes escenarios:
+
+El archivo LÉAME se elimina o se vacía.
+El repositorio se convierte en privado.
+El nombre del repositorio ya no coincide con el nombre de usuario debido a un cambio en uno o ambos nombres.
+
+
+
 8. Codificacion
 9. Manejo de Errores
 10. Activity
