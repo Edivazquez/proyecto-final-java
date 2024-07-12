@@ -1,5 +1,7 @@
-# Proyecto final primera semana
-# Autor Edgar Vazquez Ramirez.
+## Autor Edgar Vazquez Ramirez.
+
+
+# Proyecto final Primera emana
 
 # 🎯 Objetivo
 * instala y aprender el buen funcionamiento de Android Studio
@@ -10,6 +12,7 @@
 - Sesion 1: Fundamentos Android
 
   Fundamentos de las aplicaciones
+  
 Las aplicaciones Android están escritas en el lenguaje de programación Java. El SDK de android compila todo el código con todos los datos y archivos de recursos en un paquete Android, un archivo de extensión .apk. Todo el código dentro de un archivo .apk se considera una aplicación y es lo que usan los dispositívos para instalar dicha aplicación
 
 Una vez instalada en el dispositivo, cada aplicación corre bajo su própia área de seguridad:
@@ -26,6 +29,7 @@ Es posible que dos aplicaciones compartan el mismo ID de usuario Linux, en tal c
 Una aplicación puede solicitar permisos para acceder a datos del dispositivo como los contactos, SMS, la tarjeta SD, cámara, bluetooth y más. Los permisos de la aplicación se conceden en el instalación de la misma, y los otorga el usuario.
 
 - Sesion 2: # Pilares del Pensamiento Lógico Computacional
+  
 El pensamiento lógico es una habilidad mental que permite analizar y resolver problemas de manera sistemática y lógica.
 El pensamiento lógico tiene cuatro puntos importantes los cuales son:
 
@@ -39,6 +43,7 @@ El pensamiento lógico tiene cuatro puntos importantes los cuales son:
  - conjunto de pasos para resolver un problema
 
 - Sesion 3: Instalacion y Entorno de desarrollo.
+  
 Descripcion de la instalacion
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android creado y distribuido por Google.
 Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software.
@@ -96,6 +101,7 @@ El repositorio se convierte en privado.
 El nombre del repositorio ya no coincide con el nombre de usuario debido a un cambio en uno o ambos nombres.
 
 - Sesion 6: Codificacion
+  
 Realizamos algunos ejercicios  en Android Studio
 
 ejercicio uno
@@ -141,6 +147,7 @@ fun main()
 ```
 
 - Sesion 7: Manejo de Errores
+  
 Resolvimos algunos errores de Android Studio que se nos presentó al momento de codificación
 ![Imagen de WhatsApp 2024-07-10 a las 20 40 43_3f14d1f2](https://github.com/user-attachments/assets/c070e507-3550-4755-8945-460520518c7b)
 
