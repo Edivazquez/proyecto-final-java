@@ -46,8 +46,6 @@ En este caso, apps para la plataforma de Android.
 
 ![Instalar-Android-Studio-en-Windows-10-001](https://github.com/user-attachments/assets/2d22c568-2069-4265-af24-fc3db4b127a1)
 
-![android](https://github.com/user-attachments/assets/ea7856e3-19e9-425c-978a-da09f3d0e726)
-
 - Sesion 4: # Control de Versiones
    
  * Septiembre 2008, PRIMERA VERSIÓN ESTABLE, servicio de marcar, enviar mensajes.
