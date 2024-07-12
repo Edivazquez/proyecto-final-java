@@ -152,7 +152,8 @@ Resolvimos algunos errores de Android Studio que se nos presentó al momento de 
 ![Imagen de WhatsApp 2024-07-10 a las 20 40 43_3f14d1f2](https://github.com/user-attachments/assets/c070e507-3550-4755-8945-460520518c7b)
 
 - Sesion 8: Activity
-
+ [sesion 01]([https://github.com/SergioMartinez1991/ProyectoFinalModuloJava/blob/gh-pages/app/src/main/java/com/example/proyectofinalmodulojava/practica01.kt](https://github.com/Edivazquez/imagen-Mario.git)); 
+  
 ```sql
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
